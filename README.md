@@ -1,2 +1,2 @@
-# Kelompok2
+# Kalkulator Matriks
 Calculator Matriks in C
